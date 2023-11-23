@@ -1,0 +1,252 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(141, 148, 226);
+    position: sticky;
+    top: 0px;
+    align-items: center;
+    padding: 0px 50px;
+}
+.logo{
+    width: 90px;
+    
+}
+.logo img{
+    width: 100%;
+}
+.menu ul {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+ .menu a{
+    padding: 10px 10px;
+    font-size:18px;
+    text-decoration: none;
+    color: #e9e9e9;
+    
+}
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+.phone a{
+    color: #ffffff;
+    display: block;
+    background-color: rgb(107, 83, 206);
+    border-radius: 30px;
+    padding: 15px 20px;
+    text-decoration: none;
+    font-size: 18px;
+    text-align: center;
+}
+
+
+main{
+    width: 100%;
+    height: 600px;
+    background-color: rgb(166, 213, 228);
+    background-image: url("https://bogatyr.club/uploads/posts/2023-02/thumbs/1677406058_bogatyr-club-p-fon-goroda-dlya-detei-fon-vkontakte-39.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+h1{
+   font-size: 50px;
+   width: 390px;
+   color: #060744;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Playfair Display', serif; ;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.text{
+    padding: 100px 200px;
+
+
+
+}
+.phone{
+    width: 150px;
+}
+.text2{
+    color: #081f50;
+    font-size: 25px;
+    margin: 15px 0px;
+
+}
+.flex-container{
+    margin: 20px 30px;
+    text-align: center;
+    display: flex;
+    justify-content: space-between
+}
+h3{
+    text-align: center;
+    color: #2c545e;
+    text-transform: uppercase;
+}
+h2{
+    text-align: center;
+    color: #416068;
+    font-size: 30px;
+}
+h4{
+    color: #415363;
+    margin: 30px 0px 20px;
+}
+.p{
+    color: #642861;
+    font-size: 18px;
+}
+.flex-container div{
+    width: 300px;
+}
+.flex-box{
+    display: flex;
+    justify-content: space-between;
+
+    
+}
+.number{
+    font-size: 80px;
+    font-weight: 700;
+    color: #ffffff;
+}
+.block{
+    background-color: #081f50;
+}
+.block h2{
+    color: #ffffff;
+}
+.fact{
+    color: #e1fcff;
+}
+.tochka{
+    width: 15px;
+    height: 15px;
+    border-radius: 100%;
+    background-color: #ffffff;
+    align-self: center;
+}
+h6{
+    font-size: 40px;
+   width: 390px;
+   color: #373757;
+}
+.information{
+    
+    margin: 20px 0px;
+    font-size: 19px;
+}
+.text4{
+    color: #c300ff;
+    font-size: 20px;
+}
+.block2{
+    width: 100%;
+    height:850px;
+    
+}
+.text5{
+   background-color: #416068;
+   padding: 50px;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   
+
+    
+}
+.text7{
+    
+}
+.img{
+    background-image: url("https://abrakadabra.fun/uploads/posts/2022-02/1644361077_2-abrakadabra-fun-p-fon-dlya-saita-minimalizm-3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 50%;
+    height: 850px;
+}
+.flex{
+    display: flex;
+}
+.nas{
+    width: 50%;
+    
+    padding: 100px 150px;
+}
+.flex h3{
+    text-align: left;
+}
+.text7{
+    color: #ffffff;
+    font-size: 40px;
+    width: 500px;
+    text-align: center;
+    margin: 40px;
+}
+.text5 h3{
+    color: #ffffff;
+    font-size: 20px;
+
+
+}
+h5{
+    color: #f3ffff;
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+}
+.namecompane{
+    color: #f3ffff;
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+}
+div{
+    
+    
+}
+footer{
+
+    
+}
+iframe{
+    width: 100%;
+}
+.kon{
+    justify-content:space-around;
+    display: flex;
+    margin: 20px;
+}
+.kon img{
+    height: 200px;
+}
+div h2{
+    
+}
+.company{
+    background-color: #78a4af;
+  padding: 15px;
+}
+.block3{
+    padding: 30px;
+    height: 300px;
+    background-color: #eca2ff;
+}
+footer p{
+    text-align: center;
+}
+footer{
+    height: 500px;
+}
+
+
+
+
+
